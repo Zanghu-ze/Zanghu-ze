@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @Zanghu-ze
-- 👀 I’m interested in Python\C++
+- 👀 I’m interested in Python
 - 🌱 I’m currently learning ML、CV....
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Zanghu-ze/Zanghu-ze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me：740101132@qq.com
