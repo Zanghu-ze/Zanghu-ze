@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Zanghu-ze
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning ML、CV....
-- 📫 How to reach me：740101132@qq.com
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Zanghu-ze&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
+
