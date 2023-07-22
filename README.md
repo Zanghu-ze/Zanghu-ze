@@ -9,4 +9,4 @@
 ## Hi there, this is Haoze Zheng! 👋
 * 🌱 Python/C++/SLAM/ML/DL
 * 👯 Robotics/SLAM/Computer Vision Projects
-* 📫 zhz_application@163.com
+* 📫 zhz19231211@gmail.com
