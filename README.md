@@ -7,5 +7,5 @@
 ## Hi there, this is Haoze Zheng! 👋
 * 🌱 Python/C++/SLAM/ML/DL
 * 👯 Robotics/Computer Vision/Robot Perception Projects
-* 📫 zhz19231211@gmail.com/haozezhe@buffalo.edu
-* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/haoze-zheng-152623252/)
+* 📫 zhz19231211@gmail.com/ haozezhe@buffalo.edu
+* [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/haoze-zheng-152623252/)You can find me here.😄
